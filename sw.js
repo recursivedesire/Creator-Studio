@@ -1,5 +1,5 @@
-const CACHE = 'cs-v6fd54b9d';
-const PRECACHE = ["./","./index.html","vendor.9f0201be.js","fflate.f8a0e86f.js","app.7aea6cff.js","styles.33d6473c.css","./manifest.webmanifest","./icon-192.png","./icon-512.png","./maskable-512.png","./apple-touch-icon.png"];
+const CACHE = 'cs-vd2b3d0bd';
+const PRECACHE = ["./","./index.html","vendor.9f0201be.js","fflate.f8a0e86f.js","app.fd991779.js","styles.33d6473c.css","./manifest.webmanifest","./icon-192.png","./icon-512.png","./maskable-512.png","./apple-touch-icon.png"];
 const FONT_HOSTS = ['fonts.googleapis.com', 'fonts.gstatic.com'];
 
 self.addEventListener('install', (e) => {
